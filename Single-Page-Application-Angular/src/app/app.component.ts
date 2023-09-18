@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Single-Page-Application-Angular';
+  //ngIf com dataBinding
+  isAliveCard = true;
 }
